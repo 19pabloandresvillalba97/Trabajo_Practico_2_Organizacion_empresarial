@@ -63,3 +63,4 @@ plt.tight_layout() #Con esto se ajusta la imagen, recomendable ponerlo antes de 
 plt.savefig("../resultados/grafico.png") #Guardamos la imagen
 
 plt.show() #Se muestran ambos graficos
+print("La imagen se guardo en /Trabajo_Practico_2_Organizacion_empresarial/resultados/")
