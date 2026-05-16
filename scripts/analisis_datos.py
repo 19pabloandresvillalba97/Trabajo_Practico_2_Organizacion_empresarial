@@ -25,7 +25,7 @@ elif elegir_dia == 4:
 elif elegir_dia == 5:
     fecha_seleccionada="19/05/2026"
 
-df_productos = pd.read_csv("otras_cosas/lista.csv") # Abrimos el archivo .csv
+df_productos = pd.read_csv("../datos/dataset.csv") # Abrimos el archivo .csv
 
 #Elementos del primer grafico
 ventas_semanal = df_productos.groupby("fecha_venta")["cantidad"].sum()
