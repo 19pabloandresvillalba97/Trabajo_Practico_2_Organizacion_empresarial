@@ -14,3 +14,4 @@
 #### En el script tendremos un cogido en donde se mostrara 2 graficos
 #### En el primer grafico se mostrara la cantidad de ventas que se realizaron en la semana
 #### En el segundo grafico podremos ver un dia seleccionado, para visualizar que elemento se vendio mas en ese dia
+#### Se guardara una sola imagen
